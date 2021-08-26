@@ -1,0 +1,5 @@
+export enum ActionType {
+  CREATE_GRID = "CREATE_GRID",
+  FILL_BLOCK = "FILL_BLOCK",
+  SELECT_BLOCK = "SELECT_BLOCK",
+}
